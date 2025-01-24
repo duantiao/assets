@@ -21,16 +21,232 @@ proxies:
       sni: vline.ovinc.co
       type: trojan
       udp: true
+    - name: "YYJC-hk1"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: hk1.f5bc9980-9745-c0c5-800e-699fa18a25e1.6df03129.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-hk2"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: hk2.f5bc9980-9745-c0c5-800e-699fa18a25e1.24ba0f77.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-hk3"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: hk3.f5bc9980-9745-c0c5-800e-699fa18a25e1.0d1f6a51.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-hk4"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: hk4.f5bc9980-9745-c0c5-800e-699fa18a25e1.66dc3db5.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-jp1"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: jp1.f5bc9980-9745-c0c5-800e-699fa18a25e1.7adf211e.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-jp2"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: jp2.f5bc9980-9745-c0c5-800e-699fa18a25e1.02444020.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-jp3"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: jp3.f5bc9980-9745-c0c5-800e-699fa18a25e1.5584fc1f.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-jp4"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: jp4.f5bc9980-9745-c0c5-800e-699fa18a25e1.69408ae5.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-jp5"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: jp5.f5bc9980-9745-c0c5-800e-699fa18a25e1.cfe6fe33.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-jp6"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: jp6.f5bc9980-9745-c0c5-800e-699fa18a25e1.3958a655.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-jp7"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: jp7.f5bc9980-9745-c0c5-800e-699fa18a25e1.722ab11a.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-jp8"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: jp8.f5bc9980-9745-c0c5-800e-699fa18a25e1.7e2a9604.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-sg1"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: sg1.f5bc9980-9745-c0c5-800e-699fa18a25e1.2dde7df3.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-sg2"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: sg2.f5bc9980-9745-c0c5-800e-699fa18a25e1.2c4b5066.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-sg3"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: sg3.f5bc9980-9745-c0c5-800e-699fa18a25e1.d4f84ebb.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-sg4"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: sg4.f5bc9980-9745-c0c5-800e-699fa18a25e1.2ce203e5.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-sg5"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: sg5.f5bc9980-9745-c0c5-800e-699fa18a25e1.dede0d54.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-sg6"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: sg6.f5bc9980-9745-c0c5-800e-699fa18a25e1.0aca10d1.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-sg7"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: sg7.f5bc9980-9745-c0c5-800e-699fa18a25e1.57aaa8ec.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-sg8"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: sg8.f5bc9980-9745-c0c5-800e-699fa18a25e1.c586e7c2.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-us1"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: us1.f5bc9980-9745-c0c5-800e-699fa18a25e1.36a8c922.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-us2"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: us2.f5bc9980-9745-c0c5-800e-699fa18a25e1.2f6cd430.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-us3"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: us3.f5bc9980-9745-c0c5-800e-699fa18a25e1.47253001.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
+    - name: "YYJC-us4"
+      password: 02bb5d76-0c62-46d5-a679-81b2614b6e01
+      port: "443"
+      server: us4.f5bc9980-9745-c0c5-800e-699fa18a25e1.30d6a0d0.the-best-airport.com
+      sni: new.download.the-best-airport.com
+      type: trojan
+      udp: true
 proxy-groups:
     - name: Proxy
       proxies:
         - 自动选择
         - "OVINC-JP-Claw-Standard"
+        - "YYJC-hk1"
+        - "YYJC-hk2"
+        - "YYJC-hk3"
+        - "YYJC-hk4"
+        - "YYJC-jp1"
+        - "YYJC-jp2"
+        - "YYJC-jp3"
+        - "YYJC-jp4"
+        - "YYJC-jp5"
+        - "YYJC-jp6"
+        - "YYJC-jp7"
+        - "YYJC-jp8"
+        - "YYJC-sg1"
+        - "YYJC-sg2"
+        - "YYJC-sg3"
+        - "YYJC-sg4"
+        - "YYJC-sg5"
+        - "YYJC-sg6"
+        - "YYJC-sg7"
+        - "YYJC-sg8"
+        - "YYJC-us1"
+        - "YYJC-us2"
+        - "YYJC-us3"
+        - "YYJC-us4"
       type: select
     - interval: 86400
       name: 自动选择
       proxies:
         - "OVINC-JP-Claw-Standard"
+        - "YYJC-hk1"
+        - "YYJC-hk2"
+        - "YYJC-hk3"
+        - "YYJC-hk4"
+        - "YYJC-jp1"
+        - "YYJC-jp2"
+        - "YYJC-jp3"
+        - "YYJC-jp4"
+        - "YYJC-jp5"
+        - "YYJC-jp6"
+        - "YYJC-jp7"
+        - "YYJC-jp8"
+        - "YYJC-sg1"
+        - "YYJC-sg2"
+        - "YYJC-sg3"
+        - "YYJC-sg4"
+        - "YYJC-sg5"
+        - "YYJC-sg6"
+        - "YYJC-sg7"
+        - "YYJC-sg8"
+        - "YYJC-us1"
+        - "YYJC-us2"
+        - "YYJC-us3"
+        - "YYJC-us4"
       type: url-test
       url: http://www.gstatic.com/generate_204
 rules:
